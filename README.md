@@ -36,4 +36,4 @@ To continue just click "More Info" and then "Run Anyway". Enjoy!
 
 This utility was built using [AutoHotKey](https://www.autohotkey.com/). AutoHotKey is a free and open-source custom scripting language for Microsoft Windows.
 
-The code in this utility was heavily reliant on that AutoHotKey script [Macro Recorder v2.1 By FeiYue](https://www.autohotkey.com/boards/viewtopic.php?t=34184&p=159538). I am super grateful for their awesome work.
+The code in this utility was heavily reliant on the AutoHotKey script [Macro Recorder v2.1 By FeiYue](https://www.autohotkey.com/boards/viewtopic.php?t=34184&p=159538). I am super grateful for their awesome work.
