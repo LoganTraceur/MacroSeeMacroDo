@@ -21,7 +21,7 @@ Bind the hotkey to your keyboard or mouse by
  - Then select "Send Hotkey for Binding" option.
 
 ### 3. No Installation Required
-Simply download the file and double click!
+Simply download the [file][mylink] and double click!
 To make program start with windows press Windows+R, Type "Shell:startup", paste the [OneKey utility][mylink] in the startup folder that pops up.
 
 If you get a warning that the software publisher is unknown. That's ok, I'm just not famous yet ;)
