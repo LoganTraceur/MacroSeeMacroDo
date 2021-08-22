@@ -1,4 +1,4 @@
-[mylink1]: <https://github.com/LoganTraceur/OneKey/raw/main/OneKey%20Instant%20Macro%20Utility.exe> "Download Ctrl-Quotation"
+[mylink1]: <https://github.com/LoganTraceur/OneKey/raw/main/OneKey%20Instant%20Macro%20Utility.ahk> "Download Ctrl-Quotation"
 [mylink2]: <https://github.com/LoganTraceur/OneKey/raw/main/AutoHotkey.exe> "Download AutoHotKey"
 
 # OneKey
