@@ -1,5 +1,4 @@
-[mylink1]: <https://github.com/LoganTraceur/OneKey/raw/main/OneKey%20Instant%20Macro%20Utility.ahk> "Download Ctrl-Quotation"
-[mylink2]: <https://github.com/LoganTraceur/OneKey/raw/main/AutoHotkey.exe> "Download AutoHotKey"
+[mylink1]: <https://github.com/LoganTraceur/OneKey/raw/main/OneKey%20Instant%20Macro%20Utility.zip> "Download AutoHotKey"
 
 # OneKey
 ![OneKey Instant Macro Hold to Record a Macro, Click to Play](Extra/Banner.jpg)
@@ -16,8 +15,9 @@
 
 ### 2. Setup
 OneKey Instant Macro requires two files to work. They must be kept in the same directory at all times.
-1. Download [AutoHotKey][mylink2].
-2. Download [OneKey Instant Macro Utility][mylink1] and run.
+1. Download [OneKey Instant Macro Utility.zip][mylink1].
+2. Extract the contents of the folder to where ever you like.
+3. Run OneKey Instant Macro Utility.ahk and Enjoy!
 
 If you get a warning that the software publisher is unknown. That's ok, I'm just not famous yet ;)
 To continue just click "More Info" and then "Run Anyway". Enjoy! 
