@@ -1,7 +1,7 @@
 [mylink1]: <https://github.com/LoganTraceur/MacroSeeMacroDo/raw/main/Macro%20See%20Macro%20Do%20Utility.zip> "Download Macro See Macro Do"
 
 # Macro See Macro Do
-![Macro See Macro Do - Instant Macro - Hold to Record a Macro, Click to Play](Extra/Banner.jpg)
+![Macro See Macro Do - Instant Macro - Hold to Record a Macro, Click to Play](Extra/Banner.jpg){:width="100%"}
 
 'Macro See Macro Do' is a lightweight Macro Recorder. Hold to 'Record' a Macro and click to 'Play'
 
